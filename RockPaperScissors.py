@@ -36,3 +36,4 @@ while isPlaying:
     print('|---------------------------------------------|')
 
     print('tahmeed')
+    print('mahedi')
